@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "NVIDIA GeForce RTX 3090",
+    "description": "La tarjeta gráfica más potente de NVIDIA",
+    "price": 999.99,
+    "thumbnail": "img/rtx3090.jpg",
+    "code": "NV001",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "AMD Radeon RX 6900 XT",
+    "description": "Tarjeta gráfica de alta gama para gaming",
+    "price": 1500.99,
+    "thumbnail": "img/rx6900xt.jpg",
+    "code": "AMD001",
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "NVIDIA GeForce RTX 3080",
+    "description": "Tarjeta gráfica para gaming de alta gama",
+    "price": 899.99,
+    "thumbnail": "img/rtx3080.jpg",
+    "code": "NV002",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "AMD Radeon RX 6700 XT",
+    "description": "Tarjeta gráfica para gaming de gama alta",
+    "price": 599.99,
+    "thumbnail": "img/rx6700xt.jpg",
+    "code": "AMD002",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "title": "ASUS ROG Strix Z590-E Gaming WiFi",
+    "description": "Placa madre para procesadores Intel de 11va generación",
+    "price": 449.99,
+    "thumbnail": "img/z590-e.jpg",
+    "code": "ASUS001",
+    "stock": 3
+  },
+  {
+    "id": 6,
+    "title": "GIGABYTE AORUS X570 Master",
+    "description": "Placa madre para procesadores AMD Ryzen",
+    "price": 399.99,
+    "thumbnail": "img/x570-master.jpg",
+    "code": "GB001",
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "title": "ASRock Z590 Phantom Gaming-ITX/TB4",
+    "description": "Placa madre Mini-ITX para procesadores Intel de 11va generación",
+    "price": 299.99,
+    "thumbnail": "img/z590-phantom.jpg",
+    "code": "ASRK001",
+    "stock": 2
+  },
+  {
+    "id": 8,
+    "title": "NVIDIA GeForce GTX 1660",
+    "description": "Tarjeta gráfica para gaming de gama media",
+    "price": 299.99,
+    "thumbnail": "img/gtx1660.jpg",
+    "code": "NV003",
+    "stock": 20
+  },
+  {
+    "id": 9,
+    "title": "AMD Radeon RX 580",
+    "description": "Tarjeta gráfica para gaming de gama media",
+    "price": 199.99,
+    "thumbnail": "img/rx580.jpg",
+    "code": "AMD003",
+    "stock": 12
+  },
+  {
+    "id": 10,
+    "title": "Placa de video",
+    "description": "RTX 4090",
+    "price": 899.99,
+    "thumbnail": "img/rtx_4090.jpg",
+    "code": "PV001",
+    "stock": 4
+  }
+]
